@@ -1,6 +1,6 @@
 {
   "name": "console-time-polyfill-simple",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "console.time & console.timeEnd polyfill ",
   "main": "console-time.js",
   "scripts": {
