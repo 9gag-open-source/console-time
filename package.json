@@ -1,0 +1,25 @@
+{
+  "name": "console-time-polyfill-simple",
+  "version": "1.0.0",
+  "description": "console.time & console.timeEnd polyfill ",
+  "main": "console-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9gag-open-source/console-time.git"
+  },
+  "keywords": [
+    "console",
+    "time",
+    "timeEnd",
+    "polyfill"
+  ],
+  "author": "9gag-open-source",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/9gag-open-source/console-time/issues"
+  },
+  "homepage": "https://github.com/9gag-open-source/console-time#readme"
+}
